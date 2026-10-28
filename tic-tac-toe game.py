@@ -1,7 +1,9 @@
-"""this program is to pretends how to play tic-tac-toe between the computer and the user(e.g. you). The computer plays
+"""
+This program is to pretends how to play tic-tac-toe between the computer and the user(e.g. you). The computer plays
 the game using 'X's, while the user (you) play the game using 'O's. The computer makes first move and puts 'X' in the
 middle of the board, then user makes first move by inputting a number between 1 and 9. Two players rotate to input
-number into the board until one side wins."""
+number into the board until one side wins.
+"""
 
 from random import randrange
 
